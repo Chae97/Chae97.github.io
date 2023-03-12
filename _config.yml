@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jongwook Chae / Data Engineering Homework"
+title                    : "Jongwook Chae"
 title_separator          : "-"
 name                     : &name "Jongwook Chae"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jongwook Chae"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "M.S student at GIST"
   location         : "GIST"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Chae97"
   google_plus      :
   keybase          :
   instagram        :
