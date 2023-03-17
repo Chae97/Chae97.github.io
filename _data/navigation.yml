@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    paperurl: https://chae97.github.io/files/수정전CV_채종욱_cv.pdf
+    paperurl: "https://chae97.github.io/files/수정전CV_채종욱_cv.pdf"
     
   # - title: "Guide"
   #   url: /markdown/
